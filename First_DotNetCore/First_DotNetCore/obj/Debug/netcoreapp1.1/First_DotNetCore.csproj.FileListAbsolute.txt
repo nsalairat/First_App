@@ -1,0 +1,9 @@
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\bin\Debug\netcoreapp1.1\First_DotNetCore.deps.json
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\bin\Debug\netcoreapp1.1\First_DotNetCore.runtimeconfig.json
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\bin\Debug\netcoreapp1.1\First_DotNetCore.runtimeconfig.dev.json
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\bin\Debug\netcoreapp1.1\First_DotNetCore.dll
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\bin\Debug\netcoreapp1.1\First_DotNetCore.pdb
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\obj\Debug\netcoreapp1.1\First_DotNetCore.csprojResolveAssemblyReference.cache
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\obj\Debug\netcoreapp1.1\First_DotNetCore.AssemblyInfo.cs
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\obj\Debug\netcoreapp1.1\First_DotNetCore.dll
+c:\users\wan\documents\visual studio 2017\Projects\First_DotNetCore\First_DotNetCore\obj\Debug\netcoreapp1.1\First_DotNetCore.pdb
